@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="location">Location</string>
+    <string name="update">update</string>
+    <string name="davlenie">Давление</string>
+    <string name="_5_30am">5:30am</string>
+    <string name="_5_30am1">5:30am</string>
+    <string name="vlajnost">Влажность</string>
+    <string name="created_by">Разработал</string>
+    <string name="_5_30am3">5:30am</string>
+    <string name="bashkirov">Башкиров К.И</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="clear_sky">Clear sky</string>
+    <string name="_24_c">24°C</string>
+    <string name="temp_min">Temp min</string>
+    <string name="veter">Ветер</string>
+    <string name="_5_30am4">5:30am</string>
+    <string name="zakat">Закат</string>
+    <string name="sunrise">Восход</string>
+    <string name="_5_30am5">5:30am</string>
+    <string name="temp_max">Temp max</string>
+    <string name="sunrise_image">TODO</string>
+    <string name="sunset_image">TODO</string>
+    <string name="created_image">TODO</string>
+    <string name="vlajnost_image">TODO</string>
+    <string name="davlenie_image">TODO</string>
+    <string name="veter_image">TODO</string>
+</resources>
